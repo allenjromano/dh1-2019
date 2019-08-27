@@ -23,9 +23,9 @@ While there is no official textbook for this course, we will make relatively fre
 
 ### Command Line
 
-https://williamjturkel.net/2013/06/15/basic-text-analysis-with-command-line-tools-in-linux/
+[Basic Text Analysis with Command Line Tools](https://williamjturkel.net/2013/06/15/basic-text-analysis-with-command-line-tools-in-linux/)
 
-https://towardsdatascience.com/text-mining-on-the-command-line-8ee88648476f
+[Text Mining on the Command Line](https://towardsdatascience.com/text-mining-on-the-command-line-8ee88648476f)
 
 
 

@@ -6,13 +6,13 @@ T 2-5, Diffenbaugh 421
 
 ## Instructor Information
 
-Prof. Allen Romano, Associate Teaching Professor, Program in Interdisciplinary Humanities; Associate Director for Pedagogy and Outreach, Demos Project for Studies in Data Humanitie
+Prof. Allen Romano, Associate Teaching Professor, Program in Interdisciplinary Humanities; Associate Director for Pedagogy and Outreach, Demos Project for Studies in Data Humanities
 
 contact: aromano at the usual fsu place
 
 office: Diffenbaugh 434
 
-office hours: by appointment during regular human working hours. Go to http://scheduleonce.com/allenjromano
+office hours: by appointment during regular human working hours. I have, in general, blocked off Wednesday afternoons for this purpose. Go to http://scheduleonce.com/allenjromano
 
 ## Schedule
 
@@ -63,6 +63,11 @@ Final project: due at the end of exam week.
 ## Assignments
 
 The primary work of this course involves 1) before each class, reading secondary scholarship in digital humanities and viewing digital humanities projects online, 2) during each class, participating and engaging fully in all activities and work, and 3) after each class and before the next class, practicing the previous week's work through completing the weekly "lab". In addition, all students will complete a project of their own which takes some set of data through all the stages of OSEMN (Obtain, Scrub, Explore, Model, Interpret) and will complete at least 2 of the real-world challenges offered by faculty working on current dh projects. 
+
+## Assignment Submission
+
+In the first two weeks of the class, as we set up your working environment, we will also set up an online repository where you will post your work. You will need to make that repository visible to me, at a minimum (we will go through the steps). 
+
 
 ## Grading
 
