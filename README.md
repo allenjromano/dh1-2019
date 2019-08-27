@@ -9,7 +9,7 @@ This site provides materials for Introduction to Digital Humanities 1: Humanitie
 
 Code
 
-Additional Resources
+[Additional Resources](https://allenjromano.github.io/dh1-2019/resources)
 
 
 

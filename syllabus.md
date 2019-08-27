@@ -24,7 +24,7 @@ Week 1 (Aug 27): Introduction and Set-Up
 
 
 
-Part 1: Working with Digital Data
+*Part 1: Working with Digital Data*
 
 Week 2 (Sep 3): Text Data, Tabular Data
 
@@ -36,7 +36,7 @@ Week 5 (Sep 24): Data Modeling
 
 
 
-Part 2:  R
+*Part 2:  R*
 
 Week 6 (Oct 1): R basics, visualization
 
