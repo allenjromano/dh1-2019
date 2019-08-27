@@ -5,7 +5,7 @@ This site provides materials for Introduction to Digital Humanities 1: Humanitie
 
 ### Materials
 
-Syllabus
+[Syllabus](https://allenjromano.github.io/dh1-2019/syllabus)
 
 Code
 
