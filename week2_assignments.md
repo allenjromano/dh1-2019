@@ -31,9 +31,9 @@ There is no lab assignment for this week, as we are just getting started. Rather
 
 *Optional*
 
-Once you've booted up your usb and logged in with your username and password that you set up, play around with the commands we saw briefly: ls, cd, mkdir, touch. 
+Once you've booted up your usb and logged in with your username and password that you set up, play around with the commands we saw briefly: `ls`, `cd`, `mkdir`, `touch`. 
 
-If you're feeling adventurous, then try working a bit with nano. 
+If you're feeling adventurous, then try working a bit with `nano`. 
 
 If you'd like to do a bit more before next week with this, you can learn a bit more about the command line by checking out the [command line tutorial course](https://www.codecademy.com/learn/learn-the-command-line) (free) at Codeacademy. 
 
