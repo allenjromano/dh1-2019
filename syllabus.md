@@ -26,10 +26,11 @@ Week 1 (Aug 27): Introduction and Set-Up
 
 *Part 1: Working with Digital Data*
 
-Week 2 (Sep 3): Text Data, Tabular Data
+Week 2 (Sep 3): Text Data, Tabular Data:
 [Week 2 Assignments](week2_assignments)
 
-Week 3 (Sep 10): Data Wrangling
+Week 3 (Sep 10): Data Wrangling:
+[Week 3 Assignments](week3_assignments)
 
 Week 4 (Sep 17): Data Exploration
 
