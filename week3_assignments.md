@@ -21,6 +21,10 @@ Beyond these pieces, peruse both editions and find at least one piece that you t
 
 ## Lab
 
+**Postponed** 
+
+**Postponed**
+
 Unlike the readings, which are meant to prepare for a discussion, the lab component of the course is meant to *review* and *extend* what we did in the previous class. The resources and exercises below are ways to practice what you looked at this week. 
 
 1. Set up your desktop environment. (See instructions [here]().)
