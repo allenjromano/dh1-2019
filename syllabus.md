@@ -36,7 +36,7 @@ Week 4 (Sep 17): Data Exploration
 [Week 4 Assignments](week4_assignments)
 
 Week 5 (Sep 24): Data Modeling
-
+[Week 5 Assignments](week5_assignments)
 
 
 *Part 2:  R*

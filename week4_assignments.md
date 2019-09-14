@@ -32,7 +32,7 @@ Your tasks:
 
 - Clean the data. For each column see if you can normalize misspellings as appropriate. See if you can standardize the dates. See what other features of this dataset need cleaning and wrangling.
 
-2. Try to wrangle your own data: Using openrefine, grab data relevant to your own area(s) of interest. See if you can clean it and get it ready for further analysis. 
+- Try to wrangle your own data: Using openrefine, grab data relevant to your own area(s) of interest. See if you can clean it and get it ready for further analysis. 
 
 
 *Additional resources*

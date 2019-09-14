@@ -5,7 +5,16 @@ This site provides materials for Introduction to Digital Humanities 1: Humanitie
 
 ### Materials
 
+last updated:
+Sat 14 Sep 2019 01:07:57 PM EDT
+
+
 [Syllabus](https://allenjromano.github.io/dh1-2019/syllabus)
+- [Week 1](week1_assignments): first day
+- [Week 2](week2_assignments): for 9/3
+- [Week 3](week3_assignments): for 9/10
+- [Week 4](week4_assignments): for 9/17
+- [Week 5](week5_assignments): for 9/24
 
 Code
 
