@@ -33,6 +33,7 @@ Week 3 (Sep 10): Data Wrangling:
 [Week 3 Assignments](week3_assignments)
 
 Week 4 (Sep 17): Data Exploration
+[Week 4 Assignments](week4_assignments)
 
 Week 5 (Sep 24): Data Modeling
 
