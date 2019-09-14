@@ -25,7 +25,7 @@ Unlike the readings, which are meant to prepare for a discussion, the lab compon
 
 0. Optional: Install openrefine on your own computer. Note that you will need a working Java installation, usually the Java Development Kit (jdk) or Java Runtime Environment (jre). Come by Diff 421 for help troubleshooting the installation if it doesn't work.
 
-1. Try with sample data: Using Openrefine, take a look at these dante tweets [dantetweets.csv](dantetweets.csv)
+1. Try with sample data: Using Openrefine, take a look at these dante tweets [dantetweets.csv, link to canvas, requires login](https://fsu.instructure.com/courses/97324/files?preview=5869395)
 
 Your tasks:
 - get a feel for the data. Explore it and see what features of it are perhaps worth studying
