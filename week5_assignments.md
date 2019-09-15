@@ -10,6 +10,10 @@ From the Stanford Literary Lab:
 
 Pamphlet 15, Patterns and Interpretation, Franco Moretti: [https://litlab.stanford.edu/LiteraryLabPamphlet15.pdf](https://litlab.stanford.edu/LiteraryLabPamphlet15.pdf)
 
+Pamphlet 17, Porter: [https://litlab.stanford.edu/LiteraryLabPamphlet17.pdf](https://litlab.stanford.edu/LiteraryLabPamphlet17.pdf)
+
+Pamphlet 12, Literature Measured: [https://litlab.stanford.edu/LiteraryLabPamphlet12.pdf](https://litlab.stanford.edu/LiteraryLabPamphlet12.pdf)
+
 Other approaches:
 
 Character in Tolstoy: [https://academic.oup.com/dsh/article/32/suppl_1/i17/2755123](https://academic.oup.com/dsh/article/32/suppl_1/i17/2755123)
@@ -47,7 +51,7 @@ For where this could all head: Personality insight from text:
 
 ## Lab
 
-This week was primarily concerned with Regular Expressions, git, markdown, and getting ready to use R. 
+This past week was primarily concerned with Regular Expressions, git, markdown, and getting ready to use R. 
 
 *Git*
 
