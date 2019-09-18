@@ -6,8 +6,7 @@ This site provides materials for Introduction to Digital Humanities 1: Humanitie
 ### Materials
 
 last updated:
-Sat 14 Sep 2019 01:07:57 PM EDT
-
+Tue 17 Sep 2019 08:07:38 PM EDT
 
 [Syllabus](https://allenjromano.github.io/dh1-2019/syllabus)
 - [Week 1](week1_assignments): first day
@@ -15,6 +14,8 @@ Sat 14 Sep 2019 01:07:57 PM EDT
 - [Week 3](week3_assignments): for 9/10
 - [Week 4](week4_assignments): for 9/17
 - [Week 5](week5_assignments): for 9/24
+
+[Humanities Data](https://github.com/allenjromano/humanitiesdata): Course textbook (in progress) with additional material for the course.
 
 Code
 
@@ -24,5 +25,5 @@ Code
 
 ### On Canvas
 
-Canvas will be used only for recording of grades and grade-related information. All course materials will be accessible in this repository or through links in this repository.
+Canvas will be used only for recording of grades and grade-related information or for materials which must be password-protected. All course materials will be accessible in this repository or through links in this repository.
 
