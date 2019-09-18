@@ -51,7 +51,7 @@ For where this could all head: Personality insight from text:
 
 ## Lab
 
-This past week was primarily concerned with Regular Expressions, git, markdown, and getting ready to use R. 
+This past week was primarily concerned with Regular Expressions, git, and getting ready to use R. 
 
 *Git*
 
