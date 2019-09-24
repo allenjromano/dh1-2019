@@ -42,10 +42,13 @@ Week 5 (Sep 24): Data Modeling
 *Part 2:  R*
 
 Week 6 (Oct 1): R basics, visualization
+[Week 6 Assignments](week6_assignments)
 
-Week 7 (Oct 8): How to Get data
+Week 7 (Oct 8): How to get and clean data in R
+[Week 7 Assignments](week7_assignments)
 
 Week 8 (Oct 15): Text analysis
+[Week 8 Assignments](week8_assignments)
 
 Week 9 (Oct 22): Distant Reading and Topic Modeling
 

@@ -10,12 +10,6 @@ This week (and in subsequent weeks) our readings will more heavily be about R an
 
 3. Read the first chapter of _R for Data Science_, by Wickham and Grolemund: [https://r4ds.had.co.nz/explore-intro.html](https://r4ds.had.co.nz/explore-intro.html) 
 
-# Projects to look at:
-
-Torn Apart: [http://xpmethod.plaintext.in/torn-apart/volume/2/index](http://xpmethod.plaintext.in/torn-apart/volume/2/index)
-
-An example of R used for Text analysis: [https://www.rgonzo.us/shiny/apps/textanalysis/](https://www.rgonzo.us/shiny/apps/textanalysis/)
-
 # Lab
 Starting this week, the lab portion will typically involve working on code in R in three stages: 1) following an online or book set of hands-on tutorials to learn new functions, methods, etc., then 2) spending no more than 1 hour applying those functions and methods to a different data set, either one of interest to you or one from the pool of faculty data in need of analysis, and, at any point, 3) looking into the help documentation and online documentation around particular functions and methods to make sure you understand how each works.
 
