@@ -14,8 +14,9 @@ Tue 17 Sep 2019 08:07:38 PM EDT
 - [Week 3](week3_assignments): for 9/10
 - [Week 4](week4_assignments): for 9/17
 - [Week 5](week5_assignments): for 9/24
-- [Week 6](week6_assignments): for 10/3
-- [Week 7](week7_assignments): for 10/10
+- [Week 6](week6_assignments): for 10/1
+- [Week 7](week7_assignments): for 10/8
+- [Week 8](week8_assignments): for 10/15
 
 [Humanities Data](https://github.com/allenjromano/humanitiesdata): Course textbook (in progress) with additional material for the course.
 
