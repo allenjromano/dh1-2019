@@ -1,0 +1,76 @@
+# Week 12 Assignments 
+## Maps
+
+### Reading
+Read the following:
+
+1. Digital Geography and Classics: [http://www.digitalhumanities.org/dhq/vol/3/1/000031/000031.html](http://www.digitalhumanities.org/dhq/vol/3/1/000031/000031.html)
+
+
+2. What is Spatial History? [https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)
+
+Review as many of the following projects as you have time for:
+
+Digital Mapping Pompeii: [http://digitalhumanities.umass.edu/pbmp/](http://digitalhumanities.umass.edu/pbmp/)
+
+Digital Atlas Religion: http://religionatlas.org/ (Links to an external site.)
+
+Geohumanities: http://geohumanities.org/ (Links to an external site.)
+
+Spatial Humanities @UVA: http://spatial.scholarslab.org/ (Links to an external site.)
+
+Stanford Spatial Histories: https://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php (Links to an external site.)
+
+San francisco streets: http://sfstreets.noahveltman.com/ (Links to an external site.)
+
+Invasion of America: http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6 (Links to an external site.)
+
+ 
+
+Optional:
+
+GIS and literary history: http://www.digitalhumanities.org/dhq/vol/11/1/000283/000283.html (Links to an external site.)
+
+https://breac.nd.edu/articles/visualizing-a-spatial-archive-gis-digital-humanities-and-relational-space/ (Links to an external site.)
+
+[And as follow up from talking about storymaps: https://www.esri.com/arcgis-blog/products/story-maps/sharing-collaboration/story-maps-and-the-digital-humanities/] (Links to an external site.)
+
+Mapping is yet another topic that demands its own course. A good online resource is http://fredgibbs.net/courses/digital-mapping/
+
+Lab:
+
+1. As background, read http://stat405.had.co.nz/ggmap.pdf (Links to an external site.)
+
+2. Basic maps: https://www.r-bloggers.com/how-to-plot-basic-maps-with-ggmap/ (Links to an external site.)
+
+3. Try the qmap method: https://blog.dominodatalab.com/geographic-visualization-with-rs-ggmaps/ (Links to an external site.)
+
+4. [This is somewhat longer. Read and, if you have time, try to replicate]: Chapter 2 of Geocomputation with R: https://geocompr.robinlovelace.net/spatial-class.html (Links to an external site.)
+
+
+
+Extended techniques:
+
+You can connect plot.ly to ggmap (through ggplot2): https://plot.ly/ggplot2/interactive-tooltip/ (Links to an external site.)
+
+A fairly concise but full overview of methods, including an introduction to dealing with shape data: http://data-analytics.net/cep/Schedule_files/geospatial.html (Links to an external site.)
+
+
+
+Further reading:
+
+If  you want to go above and beyond, check out https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf (Links to an external site.)
+
+For GIS and such, there is a book: https://geocompr.robinlovelace.net/  (Links to an external site.)
+
+See chapter 9: https://geocompr.robinlovelace.net/gis.html (Links to an external site.)
+
+
+
+
+
+Reference: There are numerous resources that help you understand the vastness that is geographic data in R (and transferable to other domains).
+
+For an overview of various packages that deal with spatial data (and what you can do with them), see https://cran.r-project.org/web/views/Spatial.html (Links to an external site.)
+
+Keep tabs on new stuff at https://www.r-spatial.org/
