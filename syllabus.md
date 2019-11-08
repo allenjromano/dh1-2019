@@ -69,7 +69,7 @@ Week 14 (Nov. 26): NO CLASS, Thanksgiving Break
 Week 15 (Dec. 3): Classification and Deep Learning
 [Week 15 Assignments](week15_assignments)
 
-Final project: due at the end of exam week.
+[Final project](finalproject): due at the end of exam week.
 
 ## Assignments
 
