@@ -28,7 +28,7 @@ Tue 05 Nov 2019 02:56:45 PM EST
 
 [Tools for Presenting R data and visualizations](presentationTools)
 
-[Humanities Data](https://github.com/allenjromano/humanitiesdata): Course textbook (in progress) with additional material for the course.
+[Humanities Data](https://github.com/allenjromano/humanitiesdata): Course textbook (in progress and very much only starting) with additional material for the course.
 
 [Example Code](https://github.com/allenjromano/dh1-2019-git)
 
