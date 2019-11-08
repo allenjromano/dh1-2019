@@ -2,7 +2,7 @@
 ## Classification and Deep Learning
 
 ### Reading
-[more coming]
+Read excerpts from Will Kurt, Bayesian Statistics the Fun Way (in canvas, Files, "BayesianThinking.pdf")
 
 ### Lab
 - A gentle introduction: https://blog.paperspace.com/intro-to-datascience/
