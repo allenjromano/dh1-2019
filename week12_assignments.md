@@ -13,39 +13,39 @@
 
 Digital Mapping Pompeii: [http://digitalhumanities.umass.edu/pbmp/](http://digitalhumanities.umass.edu/pbmp/)
 
-Digital Atlas Religion: http://religionatlas.org/ 
+Digital Atlas Religion: [http://religionatlas.org/](http://religionatlas.org/) 
 
-Geohumanities: http://geohumanities.org/ 
+Geohumanities: [http://geohumanities.org/](http://geohumanities.org/) 
 
-Spatial Humanities @UVA: http://spatial.scholarslab.org/ 
+Spatial Humanities @UVA: [http://spatial.scholarslab.org/](http://spatial.scholarslab.org/) 
 
-Stanford Spatial Histories: https://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php 
+Stanford Spatial Histories: [https://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)  
 
-San francisco streets: http://sfstreets.noahveltman.com/ 
+San francisco streets: [http://sfstreets.noahveltman.com/](http://sfstreets.noahveltman.com/)  
 
-Invasion of America: http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6 
+Invasion of America: [http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6](http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6)  
 
  
 
 Optional:
 
-GIS and literary history: http://www.digitalhumanities.org/dhq/vol/11/1/000283/000283.html 
+GIS and literary history: [http://www.digitalhumanities.org/dhq/vol/11/1/000283/000283.html](http://www.digitalhumanities.org/dhq/vol/11/1/000283/000283.html)  
 
-https://breac.nd.edu/articles/visualizing-a-spatial-archive-gis-digital-humanities-and-relational-space/ 
+[https://breac.nd.edu/articles/visualizing-a-spatial-archive-gis-digital-humanities-and-relational-space/](https://breac.nd.edu/articles/visualizing-a-spatial-archive-gis-digital-humanities-and-relational-space/) 
 
 [And as follow up from talking about storymaps: https://www.esri.com/arcgis-blog/products/story-maps/sharing-collaboration/story-maps-and-the-digital-humanities/] 
 
-Mapping is yet another topic that demands its own course. A good online resource is http://fredgibbs.net/courses/digital-mapping/
+Mapping is yet another topic that demands its own course. A good online resource is [http://fredgibbs.net/courses/digital-mapping/](http://fredgibbs.net/courses/digital-mapping/)
 
 ### Lab:
 
-1. For an overview of various packages that deal with spatial data (and what you can do with them), see https://cran.r-project.org/web/views/Spatial.html 
+1. For an overview of various packages that deal with spatial data (and what you can do with them), see [https://cran.r-project.org/web/views/Spatial.html](https://cran.r-project.org/web/views/Spatial.html)
 
-   Keep tabs on new stuff at https://www.r-spatial.org/
+   Keep tabs on new stuff at [https://www.r-spatial.org/](https://www.r-spatial.org/)
 
-2. As background, read http://stat405.had.co.nz/ggmap.pdf 
+2. As background, read [http://stat405.had.co.nz/ggmap.pdf](http://stat405.had.co.nz/ggmap.pdf)  
 
-3. Basic maps: https://www.r-bloggers.com/how-to-plot-basic-maps-with-ggmap/ 
+3. Basic maps: [https://www.r-bloggers.com/how-to-plot-basic-maps-with-ggmap/](https://www.r-bloggers.com/how-to-plot-basic-maps-with-ggmap/)  
 
 4. Try the qmap method: https://blog.dominodatalab.com/geographic-visualization-with-rs-ggmaps/ 
 
