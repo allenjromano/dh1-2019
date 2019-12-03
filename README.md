@@ -9,24 +9,24 @@ last updated:
 Tue 05 Nov 2019 02:56:45 PM EST
 
 [Syllabus](https://allenjromano.github.io/dh1-2019/syllabus)
-- [Week 1](week1_assignments): first day
-- [Week 2](week2_assignments): for 9/3
-- [Week 3](week3_assignments): for 9/10
-- [Week 4](week4_assignments): for 9/17
-- [Week 5](week5_assignments): for 9/24
-- [Week 6](week6_assignments): for 10/1
-- [Week 7](week7_assignments): for 10/8
-- [Week 8](week8_assignments): for 10/15
-- [Week 9](week9_assignments): for 10/22
-- [Week 10](week10_assignments): for 10/29
-- [Week 11](week11_assignments): for 11/5 
-- [Week 12](week12_assignments): for 11/12
-- [Week 13](week13_assignments): for 11/19
+- [Week 1](https://allenjromano.github.io/dh1-2019/week1_assignments): first day
+- [Week 2](https://allenjromano.github.io/dh1-2019/week2_assignments): for 9/3
+- [Week 3](https://allenjromano.github.io/dh1-2019/week3_assignments): for 9/10
+- [Week 4](https://allenjromano.github.io/dh1-2019/week4_assignments): for 9/17
+- [Week 5](https://allenjromano.github.io/dh1-2019/week5_assignments): for 9/24
+- [Week 6](https://allenjromano.github.io/dh1-2019/week6_assignments): for 10/1
+- [Week 7](https://allenjromano.github.io/dh1-2019/week7_assignments): for 10/8
+- [Week 8](https://allenjromano.github.io/dh1-2019/week8_assignments): for 10/15
+- [Week 9](https://allenjromano.github.io/dh1-2019/week9_assignments): for 10/22
+- [Week 10](https://allenjromano.github.io/dh1-2019/week10_assignments): for 10/29
+- [Week 11](https://allenjromano.github.io/dh1-2019/week11_assignments): for 11/5 
+- [Week 12](https://allenjromano.github.io/dh1-2019/week12_assignments): for 11/12
+- [Week 13](https://allenjromano.github.io/dh1-2019/week13_assignments): for 11/19
 - Week 14: Thanksgiving week; no class
-- [Week 15](week15_assignments): for 12/3
-- [Final Project Information](finalproject)
+- [Week 15](https://allenjromano.github.io/dh1-2019/week15_assignments): for 12/3
+- [Final Project Information](https://allenjromano.github.io/dh1-2019/finalproject)
 
-[Tools for Presenting R data and visualizations](presentationTools)
+[Tools for Presenting R data and visualizations](https://allenjromano.github.io/dh1-2019/presentationTools)
 
 [Humanities Data](https://github.com/allenjromano/humanitiesdata): Course textbook (in progress and very much only starting) with additional material for the course.
 
